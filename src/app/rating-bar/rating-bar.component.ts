@@ -14,7 +14,7 @@ export class RatingBarComponent implements OnInit, OnChanges {
   @Input()
   max = 5;
   @Input()
-  ratingValue = 2;
+  ratingValue = 1;
   @Input()
   showRatingValue = false;
   @Input()
